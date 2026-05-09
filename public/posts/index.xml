@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mi Sitio con PaperMod</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Mi Sitio con PaperMod</description>
+    <title>Posts on Mi Sitio con PaperMod</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Mi Sitio con PaperMod</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 09 May 2026 02:00:05 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prueba de Sitio: Todo lo que Necesitas Saber</title>
       <link>http://localhost:1313/posts/prueba-de-sitio-todo-lo-necesitas-saber/</link>
@@ -15,13 +15,6 @@
       <guid>http://localhost:1313/posts/prueba-de-sitio-todo-lo-necesitas-saber/</guid>
       <description>sitio lexvida bajo construccion con hugo y tema papermod
 </description>
-    </item>
-    <item>
-      <title>{{ replace .File.ContentBaseName &#34;-&#34; &#34; &#34; | title }}</title>
-      <link>http://localhost:1313/page/default/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/page/default/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
