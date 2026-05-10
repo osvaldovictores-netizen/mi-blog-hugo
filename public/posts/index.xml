@@ -6,12 +6,12 @@
     <description>Recent content in Posts on Mi Sitio con PaperMod</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 09 May 2026 02:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:46:39 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prueba de Sitio: Todo lo que Necesitas Saber</title>
       <link>http://localhost:1313/posts/prueba-de-sitio-todo-lo-necesitas-saber/</link>
-      <pubDate>Sat, 09 May 2026 02:00:05 +0000</pubDate>
+      <pubDate>Sat, 09 May 2026 02:46:39 +0000</pubDate>
       <guid>http://localhost:1313/posts/prueba-de-sitio-todo-lo-necesitas-saber/</guid>
       <description>sitio lexvida bajo construccion con hugo y tema papermod
 </description>
